@@ -47,3 +47,11 @@ This software is licensed under the terms of the Eclipse Public License 2.0. It 
 
 ## Acknowledgements
 This project was inspired by the "Rolling Stone: Cover to Cover" software, a cherished piece of history for its users. A special thanks to the community that has kept the interest in this software alive. 
+
+## Donations
+This is a short script that took years to create. Lots of people tried to do this and gave up out of frustration, but I just never gave up. It was a labor of love and I've made it freely available to all. But if you want to show your support, donations are always appreciated.
+```
+BTC: bc1qlzy99t26sprju85pw249acuwajkyz32zh0jm2e
+
+ETH: 0x952e06F462F457065890725E6597EDD036FC4889
+```
