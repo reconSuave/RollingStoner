@@ -6,6 +6,8 @@ This program offers a groundbreaking solution to decode and convert Bondi Secure
 ## Warning
 Running from source requires 32-bit Python 3.10. It will not work with 64-bit Python versions because it must access 32-bit DLL files. The binary release should work on all Windows systems. Additionally, the script requires certain DLL files to operate correctly (they must be located in the same directory as the script). These are included with the binary release download but you can also obtain them yourself as noted below. Be aware that if you simply clone the repo and immediately try to run the script with python it will not work. Feel free to open an issue if you have problems.
 
+It is recommended that you copy the DJVU files from the Rolling Stone DVD's to your local file-system first, and then convert the local copies. Converting the files directly from the DVD can result in errors.
+
 Please note that this program will **not** work for the Bondi Playboy or New Yorker collections, but I have figured out how to convert these too and I will have some workable scripts up soon (probably in their own repositories).
 
 ### Required DLL Files
