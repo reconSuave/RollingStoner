@@ -35,12 +35,13 @@ The program can process single DJVU files or entire directories containing DJVU 
 
 ```shell
 python bondi_to_pdf.py <path to DJVU file or directory> --output_dir <output directory>
+```
 
-Disclaimer
+## Disclaimer
 Use of this software for unlawful purposes is strictly prohibited under the license terms.    
 
-License
+## License
 This software is licensed under the terms of the Eclipse Public License 2.0. It is provided 'as-is', without any express or implied warranty. In no event will the authors be held liable for any damages arising from the use of this software. Use of this software for illegal purposes is strictly prohibited. By using this software you agree to all terms.  
 
-Acknowledgements
+## Acknowledgements
 This project was inspired by the "Rolling Stone: Cover to Cover" software, a cherished piece of history for its users. A special thanks to the community that has kept the interest in this software alive. 
