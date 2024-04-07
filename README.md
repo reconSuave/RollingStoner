@@ -33,9 +33,7 @@ To run the script from source, ensure you have 32-bit Python 3.10 installed. The
 3. Run the script via the command line or another Python environment that supports Python 3.10-32.
 
 ## Usage
-The program can process single DJVU files or entire directories containing DJVU files. 
-
-There are two required dependencies. Both are stable packages with no history of shenanigans. To install the dependencies, use the following code in Windows:
+The program can process single DJVU files or entire directories containing DJVU files. There are two required dependencies. Both are stable packages with no history of shenanigans. To install the dependencies, use the following code in Windows:
 
 ```shell
 python -m pip install Pillow fpdf
