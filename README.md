@@ -1,14 +1,14 @@
 ![logo](logo.png)
 # Bondi Secure DJVU to PDF Converter
 
-This program offers a groundbreaking solution to decode and convert Bondi Secure DJVU files to PDF format. Initially developed by Bondi Digital Publishing for the "Rolling Stone: Cover to Cover" software, the Bondi DJVU format was a unique archive format that became obsolete after the company ceased operations. This tool breathes new life into the cherished content, making it accessible on modern operating systems by converting it to the widely supported PDF format.
+This program offers a groundbreaking solution to decode and convert Bondi Secure DJVU files to PDF format. Initially developed by Bondi Digital Publishing for the [Rolling Stone: Cover to Cover](https://www.amazon.com/Rolling-Stone-Cover-First-Years/dp/0979526108/) software, the Bondi DJVU format was a unique archive format that became obsolete after the company ceased operations. This tool breathes new life into the cherished content, making it accessible on modern operating systems by converting it to the widely supported PDF format.
 
 ## Warning
 Running from source requires 32-bit Python 3.10. It will not work with 64-bit Python versions because it must access 32-bit DLL files. The binary release should work on all Windows systems. Additionally, the script requires certain DLL files to operate correctly (they must be located in the same directory as the script). These are included with the binary release download but you can also obtain them yourself as noted below. Be aware that if you simply clone the repo and immediately try to run the script with python it will not work. Feel free to open an issue if you have problems.
 
 It is recommended that you copy the DJVU files from the Rolling Stone DVD's to your local file-system first, and then convert the local copies. Converting the files directly from the DVD can result in errors.
 
-Please note that this program will **not** work for the Bondi Playboy or New Yorker collections, but I have figured out how to convert these too and I will have some workable scripts up soon (probably in their own repositories).
+Please note that this program will **not** work for the Bondi Playboy or New Yorker collections. To convert the [Playboy: Cover to Cover](https://www.amazon.com/Playboy-Cover-50s-Searchable-Archive-Every/dp/0979526116) collection, use the companion tool found [here](https://github.com/reconSuave/PlayboyPDF). I have also figured out how to convert the Bondi New Yorker collection and I will have a working tool up soon in its own repository.
 
 ### Required DLL Files
 - `msvcr71.dll`
