@@ -1,5 +1,9 @@
+![Static Badge](https://img.shields.io/badge/Python%203.10%20-%2032bit%20-%20black?style=plastic&logo=python&&logoColor=yellow&labelColor=black&color=grey)
+![GitHub License](https://img.shields.io/github/license/reconSuave/RollingStoner?style=plastic&logo=eclipse&logoColor=yellow&labelColor=black&color=purple)
+![GitHub Release](https://img.shields.io/github/v/release/reconSuave/RollingStoner?display_name=tag&style=plastic&labelColor=black&color=purple)
+
 ![logo](logo.png)
-# Bondi Secure DJVU to PDF Converter
+# [Bondi Secure DJVU to PDF Converter](https://github.com/reconSuave/Rollingstoner)
 
 This program offers a groundbreaking solution to decode and convert Bondi Secure DJVU files to PDF format. Initially developed by Bondi Digital Publishing for the [Rolling Stone: Cover to Cover](https://www.amazon.com/Rolling-Stone-Cover-First-Years/dp/0979526108/) software, the Bondi DJVU format was a unique archive format that became obsolete after the company ceased operations. This tool breathes new life into the cherished content, making it accessible on modern operating systems by converting it to the widely supported PDF format.
 
